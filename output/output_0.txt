@@ -1,0 +1,61 @@
+TIME (yyyy/MM/dd HH:mm:ss)::2019/12/06 13:18:02
+-----------------------------------------------------------------------------------------
+TRIE ENTRIES ::4340
+-----------------------------------------------------------------------------------------
+LIST OF PAGES ::
+-----------------------------------------------------------------------------------------
+https://www.bluepolymath.com/about
+https://www.bluepolymath.com/about
+https://www.bluepolymath.com/archive
+https://www.bluepolymath.com/disclaimer
+https://www.bluepolymath.com/privacypolicy
+https://www.bluepolymath.com/about
+https://www.bluepolymath.com/contact
+https://www.bluepolymath.com/articles/you_should_x
+https://www.bluepolymath.com/articles/extension
+https://www.bluepolymath.com/articles/gre
+https://www.bluepolymath.com/articles/speed_reading
+https://www.bluepolymath.com/articles/art_of_saying_no
+https://www.bluepolymath.com/articles/toefl
+https://www.bluepolymath.com/articles/book
+https://www.bluepolymath.com/articles/ml
+https://www.bluepolymath.com/articles/resume
+https://www.bluepolymath.com/articles/placebo_effect
+https://www.bluepolymath.com/articles/elysian_exodus
+https://www.bluepolymath.com/articles/ms_in_us
+https://www.bluepolymath.com/articles/nihilism
+https://www.bluepolymath.com/articles/arguments_for_god
+****************************************************************************
+SEARCH TERMS :: human boy nihilism grey mind human 
+****************************************************************************
+OUTPUT STATISTICS: TABLE OF OCCURRENCES 
+-----------------------------------------------------------------------------------------
+Rank|Words|human     |boy       |nihilism  |grey      |mind      |human     |
+-----------------------------------------------------------------------------
+1         |12        |1         |56        |0         |0         |12        |
+2         |6         |1         |0         |0         |5         |6         |
+3         |5         |0         |0         |0         |3         |5         |
+4         |3         |0         |0         |0         |0         |3         |
+5         |3         |0         |0         |0         |0         |3         |
+6         |3         |0         |0         |0         |0         |3         |
+7         |3         |0         |0         |0         |0         |3         |
+8         |1         |0         |2         |0         |0         |1         |
+9         |0         |0         |0         |0         |3         |0         |
+10        |1         |0         |0         |0         |0         |1         |
+11        |0         |0         |0         |0         |1         |0         |
+12        |0         |0         |0         |0         |1         |0         |
+-----------------------------------------------------------------------------
+OUTPUT STATISTICS: WEBPAGE RANKINGS:
+-----------------------------------------------------------------------------
+Rank-1:: Occurrences-81:: URL:https://www.bluepolymath.com/articles/nihilism
+Rank-2:: Occurrences-18:: URL:https://www.bluepolymath.com/articles/placebo_effect
+Rank-3:: Occurrences-13:: URL:https://www.bluepolymath.com/articles/arguments_for_god
+Rank-4:: Occurrences-6:: URL:https://www.bluepolymath.com/about
+Rank-5:: Occurrences-6:: URL:https://www.bluepolymath.com/about
+Rank-6:: Occurrences-6:: URL:https://www.bluepolymath.com/about
+Rank-7:: Occurrences-6:: URL:https://www.bluepolymath.com/articles/ml
+Rank-8:: Occurrences-4:: URL:https://www.bluepolymath.com/archive
+Rank-9:: Occurrences-3:: URL:https://www.bluepolymath.com/articles/speed_reading
+Rank-10:: Occurrences-2:: URL:https://www.bluepolymath.com/articles/elysian_exodus
+Rank-11:: Occurrences-1:: URL:https://www.bluepolymath.com/articles/gre
+Rank-12:: Occurrences-1:: URL:https://www.bluepolymath.com/articles/toefl
